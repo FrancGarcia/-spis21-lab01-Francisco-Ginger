@@ -2,4 +2,4 @@ print ("hello")
 #hi
 print ("finally")
 
-print("")
+print("not user friendly at all")
