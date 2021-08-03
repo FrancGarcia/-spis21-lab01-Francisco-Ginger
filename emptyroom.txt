@@ -1,4 +1,4 @@
-#go to bottom right left corner
+#go to bottom right corner
 0 ***x -> S 0
 0 ***S -> E 1
 1 *x** -> E 1
